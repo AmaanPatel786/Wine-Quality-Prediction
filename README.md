@@ -24,6 +24,3 @@ The dataset used in this project consists of various physicochemical attributes 
 ## Results
 
 The model was able to predict wine quality based on the input features with high accuracy. You can explore and modify the code to experiment with other machine learning models or further improve the model performance.
-
-```bash
-pip install -r requirements.txt
